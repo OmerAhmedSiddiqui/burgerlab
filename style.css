@@ -1,0 +1,220 @@
+body{
+    background-color: #f0f0f0;
+}
+table{
+    width: 80%;
+text-transform: uppercase;
+margin: 0 auto;
+font-family:Boogaloo-Regular ;
+font-size: 20px;
+color: white;}
+th a{
+    color: #ffffff;
+    text-decoration: none;
+}
+th a:hover{
+    color: #ff0000;
+}
+th img{
+    width: 80%;
+}
+th{
+    width: 900px;
+}
+.header{
+background-image: url(img/Untitled-1-1-1.jpg);
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-position: center;
+width: 100%;
+height: 900px;
+background-size: 100%;
+
+
+}
+.main-image{
+    width: 100%;
+  height: 900px;
+}
+.container1{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 50px;
+    /* justify-content: space-around; */
+}
+.container1 img{
+    width: 60%;
+    height: 600px;
+    border: 8px solid #f8f8f8;
+
+}
+@font-face {
+    font-family:Boogaloo-Regular ;
+    src: url(fonts/Boogaloo-Regular.ttf);
+}
+.sub-container1{
+    margin-left: 30px;
+}
+.BUNS{
+    font-family: Boogaloo-Regular   ;
+color: rgb(83, 47, 23);
+font-size: 
+36px;
+padding-top: 50px;
+
+}   
+.container1 h1{
+    font-family: Boogaloo-Regular ;
+    font-size: 52px;
+    color: 
+    rgb(83, 47, 23);
+}
+.urdu{
+    font-weight: lighter;
+   color: rgb(83, 47, 23);
+}
+.container1 p{
+    font-family: Boogaloo-Regular;
+    color:  rgb(83, 47, 23);
+    font-size: 20.8px;
+}
+.labs-exclusive {
+text-align: center;
+font-family: Boogaloo-Regular;
+color:  rgb(83, 47, 23);
+font-size: 40px;
+padding-top: 50px;
+font-weight: lighter;
+letter-spacing: 2px;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+}
+.doppler{
+    width: 25%;
+    height: 300px;
+    padding-top:70px;
+}
+.american{    width: 25%;
+    height: 300px;
+    padding-top: 70px;
+
+}
+.quadra{
+    width: 25%;
+    padding-top: 20px;
+}
+
+.container3{
+    display: flex;
+justify-content: center;
+}
+.sub-container-burger{
+    width: 30%;
+color: rgb(228, 7, 0);
+font-family:  Boogaloo-Regular;
+font-size: 30px;
+text-align: center;
+}
+.sub-container-burger h2::first-line{
+    color:  rgb(83, 47, 23);
+   
+}
+.the-doppler,.devider1{
+    padding-left: 150px;
+}
+.all-american,.devider3{
+    padding-right: 150px;
+}
+.devider1,.devider2,.devider3{
+    padding-bottom: 100px;
+}
+.devider1,.devider2,.devider3{
+    margin-top: -15px;
+}
+.devider3{
+    width: 60%;
+    height: 6px;
+}
+.description1,.description2,.description3{
+    font-size: 30px;
+   margin-top: -80px;
+}
+.description1{
+margin-left: 138px;
+}
+.description3{
+padding-right: 125px;
+}
+.sub-container-burger p{
+    color: rgb(83, 47, 23) ;
+    font-size: 17.6px;
+    width: 70%;
+   
+}
+.para1{
+    padding-left: 135px;
+}
+.para2{
+    padding-left: 80px;
+}
+.para3{
+    padding-left: 10px;
+}
+.container4{
+    display: flex;
+ background-color: #2e3134;   
+    justify-content: space-evenly;
+    color: white;
+    font-family: Boogaloo-Regular ;
+    padding-bottom:30px;
+}
+.container4 img{
+
+    margin-top: 50px;
+}
+
+.container4 h2{
+    font-size: 28px;
+    margin-top: 0px;
+}
+.footer-heading1{
+    margin-left: -20px;
+}
+.footer-heading2{
+    margin-left: -45px;
+}
+.footer-heading3{
+    margin-left: -20px;
+}
+.container4 p{
+    width: 60%;
+    margin-left: -50px
+}
+.sub-container-footer1{
+margin-left: 210px; 
+
+}.sub-container-footer2{
+    margin-left: -100px;
+}
+.fresh-min{
+    margin-left: -15px;
+}
+.Innovations-min{
+    margin-left: -40px;
+}
+.contact{
+    background-color: #241b15;
+display: flex;
+justify-content: center;
+padding-top: 20px;
+padding-left: 100px;
+
+padding-bottom: 30px;
+}
+.contact img{
+    width: 30%;
+    border-radius: 40%;
+ 
+}
